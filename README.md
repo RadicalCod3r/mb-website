@@ -1,2 +1,2 @@
 # mb-website
-This is a simple Twiter like website
+This is a simple Twitter like website.
