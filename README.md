@@ -1,5 +1,7 @@
 # mb-website
 This is a simple Twitter like website.
 A Simple Tweak down here.
-## Purpose
-There is no purpose for this repo
+## Project Purpose
+It is a project for learning and 
+practicing some skills like git and
+front end design
