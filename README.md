@@ -5,3 +5,5 @@ A Simple Tweak down here.
 It is a project for learning and 
 practicing some skills like git and
 front end design
+## Update
+Bonus Section has been updated.
