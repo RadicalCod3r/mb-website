@@ -1,4 +1,4 @@
-# mb-website
+# mbs-website
 This is a simple Twitter like website.
 A Simple Tweak down here.
 ## Project Purpose
